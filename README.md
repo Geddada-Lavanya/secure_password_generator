@@ -1,4 +1,4 @@
-SECURE PASSWORD GENERATOR: Table of Contents:
+SECURE PASSWORD GENERATOR:
 
 Overview Features Usage Contributing Code Explanation FAQ Overview: A simple yet powerful password generator that creates unique and secure passwords based on user input. This tool is designed to help users create strong passwords that meet their specific needs.
 
@@ -14,4 +14,4 @@ Example Use Case:
 
 INPUT: SET YOUR PASSWORD: How many numbers do you want in your password? 3 How many letters do you want in your password? 5 How many symbols do you want in your password? 2 OUTPUT: A randomly generated password that meets your specified requirements.
 
-Contributing: Contributions are welcome! If you'd like to improve or expand this project, please fork the repository and submit a pull request.
+
